@@ -5,8 +5,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.everis.util.Hooks;
 
-import junit.framework.Assert;
-
 public class CarrinhoPage extends BasePage {
 	
 	public CarrinhoPage() {
